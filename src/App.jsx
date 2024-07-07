@@ -54,7 +54,7 @@ function App() {
   <div className='p-[10px] bg-slate-100'>
     <h1 className='font-bold text-[40px]'>Ecommerce</h1>
     <div className='max-w[1320px] mx-auto'>
-      <h1 className='text-center text-[30px] font-bold mb-[20px]'>Oue Products</h1>
+      <h1 className='text-center text-[30px] font-bold mb-[20px]'>Our Products</h1>
         <div className='grid grid-cols-[20%_auto] gap-[20px]'>
           <div>
             <Category finalCategory={finalCategory} setCatName={setCatName}/>
